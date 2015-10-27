@@ -1,0 +1,40 @@
+﻿<Properties StartupItem="PhoneCall.Droid/PhoneCall.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.10.71.34.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PhoneCall.Droid/MainActivity.cs">
+    <Files>
+      <File FileName="PhoneCall.Droid/MainActivity.cs" Line="51" Column="35" />
+      <File FileName="PhoneCall.Droid/Resources/values/Strings.xml" Line="3" Column="44" />
+      <File FileName="PhoneCall.ShareCore/PhonewordTranslator.cs" Line="13" Column="10" />
+      <File FileName="PhoneCall.Core/PhonewordTranslator.cs" Line="53" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhoneCall" expanded="True">
+            <Node name="PhoneCall.Core" expanded="True" />
+            <Node name="PhoneCall.Droid" expanded="True" selected="True" />
+            <Node name="PhoneCall.ShareCore" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ViewModel</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="PhoneCall" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/MainActivity.cs" line="25" column="1" />
+      <Breakpoint file="/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/MainActivity.cs" line="54" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PhoneCall.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

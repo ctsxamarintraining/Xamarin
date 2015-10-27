@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneCall.Droid", "PhoneCall.Droid\PhoneCall.Droid.csproj", "{78CD1418-9624-4C9F-A904-8973E4B0731F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneCall.Droid.UITests", "PhoneCall.Droid.UITests\PhoneCall.Droid.UITests.csproj", "{055D64A6-ACDF-4272-9582-8A06775A6C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneCall.Core", "PhoneCall.Core\PhoneCall.Core.csproj", "{8DE89D26-69C8-4A18-A8D1-8F8025249253}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "PhoneCall.ShareCore", "PhoneCall.ShareCore\PhoneCall.ShareCore.shproj", "{A5450317-9588-454D-8F39-89DC578431AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{055D64A6-ACDF-4272-9582-8A06775A6C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055D64A6-ACDF-4272-9582-8A06775A6C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055D64A6-ACDF-4272-9582-8A06775A6C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055D64A6-ACDF-4272-9582-8A06775A6C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78CD1418-9624-4C9F-A904-8973E4B0731F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78CD1418-9624-4C9F-A904-8973E4B0731F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78CD1418-9624-4C9F-A904-8973E4B0731F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78CD1418-9624-4C9F-A904-8973E4B0731F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE89D26-69C8-4A18-A8D1-8F8025249253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE89D26-69C8-4A18-A8D1-8F8025249253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE89D26-69C8-4A18-A8D1-8F8025249253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE89D26-69C8-4A18-A8D1-8F8025249253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

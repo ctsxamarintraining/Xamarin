@@ -1,0 +1,17 @@
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/bin/Debug/PhoneCall.Droid.dll.mdb
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/bin/Debug/PhoneCall.Droid.dll
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/bin/Debug/com.cognizant.phonecall.droid.apk
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/android/bin/com.cognizant.phonecall.droid.apk
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/res/layout/main.xml
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/res/values/strings.xml
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/res/drawable-hdpi/icon.png
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/res/drawable-mdpi/icon.png
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/R.cs.flag
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/bin/Debug/com.cognizant.phonecall.droid-Signed.apk
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/uploadflags.txt
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/PhoneCall.Droid.dll
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/PhoneCall.Droid.dll.mdb

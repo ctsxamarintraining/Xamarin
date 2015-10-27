@@ -1,0 +1,6 @@
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/assemblies/PhoneCall.Droid.dll
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/assemblies/System.dll
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/assemblies/System.Xml.dll
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/assemblies/Mono.Android.dll
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/assemblies/System.Core.dll
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Droid/obj/Debug/assemblies/mscorlib.dll

@@ -1,0 +1,4 @@
+PhoneCall.Droid.MainActivity, PhoneCall.Droid;md5736051ba5925f493788d179793e1fbde.MainActivity
+PhoneCall.Droid.MainActivity, PhoneCall.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5736051ba5925f493788d179793e1fbde.MainActivity
+PhoneCall.Droid.MainActivity;md5736051ba5925f493788d179793e1fbde.MainActivity
+phonecall.droid.MainActivity;md5736051ba5925f493788d179793e1fbde.MainActivity

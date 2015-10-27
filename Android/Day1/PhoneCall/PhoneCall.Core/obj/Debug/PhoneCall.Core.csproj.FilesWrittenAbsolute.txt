@@ -1,0 +1,5 @@
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Core/bin/Debug/PhoneCall.Core.dll.mdb
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Core/bin/Debug/PhoneCall.Core.dll
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Core/obj/Debug/PhoneCall.Core.dll
+/Users/mspuser/Projects/PhoneCall/PhoneCall.Core/obj/Debug/PhoneCall.Core.dll.mdb
