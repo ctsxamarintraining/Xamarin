@@ -1,0 +1,12 @@
+Day4.Droid.UofActivity, Day4.Droid;md5356d2878626c2bebff65e6bdb261e0c9.UofActivity
+Day4.Droid.UofActivity, Day4.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5356d2878626c2bebff65e6bdb261e0c9.UofActivity
+Day4.Droid.UofActivity;md5356d2878626c2bebff65e6bdb261e0c9.UofActivity
+day4.droid.UofActivity;md5356d2878626c2bebff65e6bdb261e0c9.UofActivity
+Day4.Droid.RelativeLayoutExampleActivity, Day4.Droid;md5356d2878626c2bebff65e6bdb261e0c9.RelativeLayoutExampleActivity
+Day4.Droid.RelativeLayoutExampleActivity, Day4.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5356d2878626c2bebff65e6bdb261e0c9.RelativeLayoutExampleActivity
+Day4.Droid.RelativeLayoutExampleActivity;md5356d2878626c2bebff65e6bdb261e0c9.RelativeLayoutExampleActivity
+day4.droid.RelativeLayoutExampleActivity;md5356d2878626c2bebff65e6bdb261e0c9.RelativeLayoutExampleActivity
+Day4.Droid.layouttestActivity, Day4.Droid;md5356d2878626c2bebff65e6bdb261e0c9.layouttestActivity
+Day4.Droid.layouttestActivity, Day4.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5356d2878626c2bebff65e6bdb261e0c9.layouttestActivity
+Day4.Droid.layouttestActivity;md5356d2878626c2bebff65e6bdb261e0c9.layouttestActivity
+day4.droid.layouttestActivity;md5356d2878626c2bebff65e6bdb261e0c9.layouttestActivity
