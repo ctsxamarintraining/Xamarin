@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Protocols_Delegates_Events/Protocols_Delegates_Events.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Protocols_Delegates_Events/Protocols_Delegates_EventsViewController.cs">
+    <Files>
+      <File FileName="Protocols_Delegates_Events/SampleMapAnnotation.cs" Line="29" Column="4" />
+      <File FileName="Protocols_Delegates_Events/Protocols_Delegates_EventsViewController.cs" Line="47" Column="4" />
+      <File FileName="Protocols_Delegates_Events/SampleMapDelegate.cs" Line="10" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
