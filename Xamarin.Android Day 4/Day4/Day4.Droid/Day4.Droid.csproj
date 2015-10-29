@@ -49,6 +49,7 @@
     <Compile Include="UofActivity.cs" />
     <Compile Include="RelativeLayoutExampleActivity.cs" />
     <Compile Include="layouttestActivity.cs" />
+    <Compile Include="AnimationDrawableActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -67,9 +68,22 @@
     <AndroidResource Include="Resources\layout\layouttest.axml" />
     <AndroidResource Include="Resources\layout-land\layouttest.axml" />
     <AndroidResource Include="Resources\layout-sw360dp\layouttest.axml" />
+    <AndroidResource Include="Resources\anim\hyperspace.xml" />
+    <AndroidResource Include="Resources\layout\activity_imageandbutton.axml" />
+    <AndroidResource Include="Resources\Drawable\spinning_asteroid.xml" />
+    <AndroidResource Include="Resources\Drawable\asteroid01.png" />
+    <AndroidResource Include="Resources\Drawable\asteroid02.png" />
+    <AndroidResource Include="Resources\Drawable\asteroid03.png" />
+    <AndroidResource Include="Resources\Drawable\asteroid04.png" />
+    <AndroidResource Include="Resources\Drawable\asteroid05.png" />
+    <AndroidResource Include="Resources\Drawable\asteroid06.png" />
+    <AndroidResource Include="Resources\values-de\Strings.xml" />
+    <AndroidResource Include="Resources\values\style.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
   <ItemGroup>
     <Folder Include="Resources\layout-sw360dp\" />
+    <Folder Include="Resources\anim\" />
+    <Folder Include="Resources\Drawable\" />
   </ItemGroup>
 </Project>

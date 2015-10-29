@@ -10,3 +10,7 @@ Day4.Droid.layouttestActivity, Day4.Droid;md5356d2878626c2bebff65e6bdb261e0c9.la
 Day4.Droid.layouttestActivity, Day4.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5356d2878626c2bebff65e6bdb261e0c9.layouttestActivity
 Day4.Droid.layouttestActivity;md5356d2878626c2bebff65e6bdb261e0c9.layouttestActivity
 day4.droid.layouttestActivity;md5356d2878626c2bebff65e6bdb261e0c9.layouttestActivity
+Day4.Droid.AnimationDrawableActivity, Day4.Droid;md5356d2878626c2bebff65e6bdb261e0c9.AnimationDrawableActivity
+Day4.Droid.AnimationDrawableActivity, Day4.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5356d2878626c2bebff65e6bdb261e0c9.AnimationDrawableActivity
+Day4.Droid.AnimationDrawableActivity;md5356d2878626c2bebff65e6bdb261e0c9.AnimationDrawableActivity
+day4.droid.AnimationDrawableActivity;md5356d2878626c2bebff65e6bdb261e0c9.AnimationDrawableActivity

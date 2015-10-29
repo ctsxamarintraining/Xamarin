@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace Day4.Droid
 {
-	[Activity (Label = "layouttestActivity", MainLauncher = true)]			
+	[Activity (Label = "layouttestActivity")]			
 	public class layouttestActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)

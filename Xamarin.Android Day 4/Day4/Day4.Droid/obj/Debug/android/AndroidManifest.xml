@@ -4,7 +4,8 @@
   <application android:label="Day4.Droid" android:name="mono.android.app.Application" android:debuggable="true">
     <activity android:icon="@drawable/icon" android:label="Day4.Droid" android:name="md5356d2878626c2bebff65e6bdb261e0c9.UofActivity" />
     <activity android:label="RelativeLayoutExampleActivity" android:name="md5356d2878626c2bebff65e6bdb261e0c9.RelativeLayoutExampleActivity" />
-    <activity android:label="layouttestActivity" android:name="md5356d2878626c2bebff65e6bdb261e0c9.layouttestActivity">
+    <activity android:label="layouttestActivity" android:name="md5356d2878626c2bebff65e6bdb261e0c9.layouttestActivity" />
+    <activity android:label="@string/title_animationdrawable" android:theme="@android:style/Theme.Holo.Light.DarkActionBar" android:name="md5356d2878626c2bebff65e6bdb261e0c9.AnimationDrawableActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
