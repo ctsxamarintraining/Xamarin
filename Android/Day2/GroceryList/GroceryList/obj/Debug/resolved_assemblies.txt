@@ -1,0 +1,7 @@
+D:\Downloads\and102-activities-intents\Lab Materials\Part 06 Resources\Completed\GroceryList\GroceryList\obj\Debug\assemblies\GroceryList.dll
+D:\Downloads\and102-activities-intents\Lab Materials\Part 06 Resources\Completed\GroceryList\GroceryList\obj\Debug\assemblies\Mono.Android.dll
+D:\Downloads\and102-activities-intents\Lab Materials\Part 06 Resources\Completed\GroceryList\GroceryList\obj\Debug\assemblies\mscorlib.dll
+D:\Downloads\and102-activities-intents\Lab Materials\Part 06 Resources\Completed\GroceryList\GroceryList\obj\Debug\assemblies\System.Core.dll
+D:\Downloads\and102-activities-intents\Lab Materials\Part 06 Resources\Completed\GroceryList\GroceryList\obj\Debug\assemblies\System.dll
+D:\Downloads\and102-activities-intents\Lab Materials\Part 06 Resources\Completed\GroceryList\GroceryList\obj\Debug\assemblies\System.Net.Http.dll
+D:\Downloads\and102-activities-intents\Lab Materials\Part 06 Resources\Completed\GroceryList\GroceryList\obj\Debug\assemblies\System.Xml.dll
