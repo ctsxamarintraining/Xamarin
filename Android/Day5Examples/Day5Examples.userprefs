@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Day5Examples.Droid/Day5Examples.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day5Examples.Droid/MainActivity.cs">
+    <Files>
+      <File FileName="Day5Examples.Droid/MainActivity.cs" Line="15" Column="3" />
+      <File FileName="Day5Examples.Droid/Resources/Resource.designer.cs" Line="1763" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day5Examples" expanded="True">
+            <Node name="Day5Examples.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+              </Node>
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Day5Examples.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>/Users/mspuser/.local/share/Xamarin/Android.Support.v7.MediaRouter/19.1.0/content/support/v7/mediarouter;/Users/mspuser/.local/share/Xamarin/Android.Support.v7.AppCompat/20.0.0/content/support/v7/appcompat;/Users/mspuser/Projects/Day5Examples/packages/Xamarin.GooglePlayServices.19.0.0.1/lib/MonoAndroid23/19/content/google-play-services/libproject/google-play-services_lib</AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>/Users/mspuser/.local/share/Xamarin/Android.Support.v13/20.0.0/content/support/v13/android-support-v13.jar;/Users/mspuser/.local/share/Xamarin/Android.Support.v7.MediaRouter/19.1.0/content/support/v7/mediarouter/libs/android-support-v7-mediarouter.jar;/Users/mspuser/.local/share/Xamarin/Android.Support.v7.AppCompat/20.0.0/content/support/v7/appcompat/libs/android-support-v7-appcompat.jar;/Users/mspuser/Projects/Day5Examples/packages/Xamarin.GooglePlayServices.19.0.0.1/lib/MonoAndroid23/19/content/google-play-services/libproject/google-play-services_lib/libs/google-play-services.jar</AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences></AdditionalNativeLibraryReferences>
+</Paths>
