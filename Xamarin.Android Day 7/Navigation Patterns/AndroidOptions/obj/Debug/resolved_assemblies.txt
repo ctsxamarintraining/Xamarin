@@ -1,0 +1,6 @@
+/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 7/Navigation Patterns/AndroidOptions/obj/Debug/assemblies/Options.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 7/Navigation Patterns/AndroidOptions/obj/Debug/assemblies/System.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 7/Navigation Patterns/AndroidOptions/obj/Debug/assemblies/System.Xml.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 7/Navigation Patterns/AndroidOptions/obj/Debug/assemblies/Mono.Android.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 7/Navigation Patterns/AndroidOptions/obj/Debug/assemblies/System.Core.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 7/Navigation Patterns/AndroidOptions/obj/Debug/assemblies/mscorlib.dll

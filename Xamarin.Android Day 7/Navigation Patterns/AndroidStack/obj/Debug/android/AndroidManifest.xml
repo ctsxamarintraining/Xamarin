@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.xamarin.university.mobilenav.android.stack">
+  <uses-sdk android:minSdkVersion="18" />
+  <application android:label="AndroidStack" android:icon="@drawable/ic_launcher" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:icon="@drawable/ic_launcher" android:label="Android Stack" android:name="md595669e11d727817dcf95436950675eba.MenuActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="About" android:name="md595669e11d727817dcf95436950675eba.AboutActivity" />
+    <activity android:label="Session" android:name="md595669e11d727817dcf95436950675eba.SessionActivity" />
+    <activity android:icon="@drawable/ic_launcher" android:label="Sessions" android:name="md595669e11d727817dcf95436950675eba.SessionsActivity" />
+    <activity android:icon="@drawable/ic_action_speakers" android:label="Speakers" android:name="md595669e11d727817dcf95436950675eba.SpeakersActivity" />
+    <activity android:label="Speaker" android:name="md595669e11d727817dcf95436950675eba.SpeakerDetailsActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.xamarin.university.mobilenav.android.stack.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.xamarin.university.mobilenav.android.stack" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
