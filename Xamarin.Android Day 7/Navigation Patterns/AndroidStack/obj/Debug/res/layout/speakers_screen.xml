@@ -1,1 +1,0 @@
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"><fragment class="md595669e11d727817dcf95436950675eba.SpeakerListFragment" android:id="@+id/titles_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" /></LinearLayout>
