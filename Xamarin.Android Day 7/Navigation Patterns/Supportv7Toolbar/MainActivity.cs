@@ -50,6 +50,7 @@ namespace HelloToolbar
 			MenuInflater.Inflate (Resource.Menu.home, menu);
 			return base.OnCreateOptionsMenu (menu);
 		}
+
 		public override bool OnOptionsItemSelected (IMenuItem item)
 		{	
 			Toast.MakeText(this, "Top ActionBar pressed: " + item.TitleFormatted, ToastLength.Short).Show();

@@ -1,0 +1,12 @@
+Stacknav.MainActivity, Stacknav;md5e29a44728843aef25144f0c031691df8.MainActivity
+Stacknav.MainActivity, Stacknav, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e29a44728843aef25144f0c031691df8.MainActivity
+Stacknav.MainActivity;md5e29a44728843aef25144f0c031691df8.MainActivity
+stacknav.MainActivity;md5e29a44728843aef25144f0c031691df8.MainActivity
+Stacknav.SecondActivity, Stacknav;md5e29a44728843aef25144f0c031691df8.SecondActivity
+Stacknav.SecondActivity, Stacknav, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e29a44728843aef25144f0c031691df8.SecondActivity
+Stacknav.SecondActivity;md5e29a44728843aef25144f0c031691df8.SecondActivity
+stacknav.SecondActivity;md5e29a44728843aef25144f0c031691df8.SecondActivity
+Stacknav.ThirdActivity, Stacknav;md5e29a44728843aef25144f0c031691df8.ThirdActivity
+Stacknav.ThirdActivity, Stacknav, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e29a44728843aef25144f0c031691df8.ThirdActivity
+Stacknav.ThirdActivity;md5e29a44728843aef25144f0c031691df8.ThirdActivity
+stacknav.ThirdActivity;md5e29a44728843aef25144f0c031691df8.ThirdActivity

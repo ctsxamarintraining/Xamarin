@@ -1617,8 +1617,12 @@ containing a value of this type.
         public static final int list_item=0x7f0b0028;
         public static final int main_content=0x7f0b004e;
         public static final int media_actions=0x7f0b0053;
+        public static final int menu_create=0x7f0b005f;
+        public static final int menu_redo=0x7f0b0061;
+        public static final int menu_save=0x7f0b0062;
         public static final int menu_settings=0x7f0b005e;
         public static final int menu_share=0x7f0b005d;
+        public static final int menu_undo=0x7f0b0060;
         public static final int middle=0x7f0b001a;
         public static final int multiply=0x7f0b0013;
         public static final int never=0x7f0b001e;

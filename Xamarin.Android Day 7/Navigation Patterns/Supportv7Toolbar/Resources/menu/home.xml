@@ -4,10 +4,10 @@
  <item
       android:id="@+id/menu_share"
       android:icon="@drawable/ic_action_social_share"
-      local:showAsAction="ifRoom"
+      local:showAsAction="ifRoom|withText"
       android:title="Share" />
  <item
       android:id="@+id/menu_settings"
-      local:showAsAction="never"
+      local:showAsAction= "never"
       android:title="Settings" />
 </menu>

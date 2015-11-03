@@ -1,6 +1,4 @@
-﻿
-
-using Android.App;
+﻿using Android.App;
 using Android.OS;
 using Android.Views;
 using Android.Support.V7.App;
@@ -24,17 +22,24 @@ namespace HelloToolbar
 			SupportActionBar.Title = "Hello from Toolbar";
 
 			SupportActionBar.SetDisplayHomeAsUpEnabled (true);
-			SupportActionBar.SetHomeButtonEnabled (true);
+		
 		}
 
 		public override bool OnOptionsItemSelected (IMenuItem item)
 		{
 			if (item.ItemId == Android.Resource.Id.Home)
 				Finish ();
+			else
+				Android.Widget.Toast.MakeText(this, "Top ActionBar pressed: " + item.TitleFormatted, Android.Widget.ToastLength.Short).Show();
 
 			return base.OnOptionsItemSelected (item);
 		}
 	
+		public override bool OnCreateOptionsMenu (IMenu menu)
+		{
+			MenuInflater.Inflate (Resource.Menu.home, menu);
+			return base.OnCreateOptionsMenu (menu);
+		}
 	}
 }
 

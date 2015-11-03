@@ -1543,11 +1543,23 @@ namespace HelloToolbar
 			// aapt resource value: 0x7f0b0053
 			public const int media_actions = 2131427411;
 			
+			// aapt resource value: 0x7f0b005f
+			public const int menu_create = 2131427423;
+			
+			// aapt resource value: 0x7f0b0061
+			public const int menu_redo = 2131427425;
+			
+			// aapt resource value: 0x7f0b0062
+			public const int menu_save = 2131427426;
+			
 			// aapt resource value: 0x7f0b005e
 			public const int menu_settings = 2131427422;
 			
 			// aapt resource value: 0x7f0b005d
 			public const int menu_share = 2131427421;
+			
+			// aapt resource value: 0x7f0b0060
+			public const int menu_undo = 2131427424;
 			
 			// aapt resource value: 0x7f0b001a
 			public const int middle = 2131427354;
