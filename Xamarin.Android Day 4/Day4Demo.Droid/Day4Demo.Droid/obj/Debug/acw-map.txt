@@ -1,8 +1,0 @@
-Day4Demo.Droid.MainActivity, Day4Demo.Droid;md54fafe1a7afbffbd4f072c0c85783da0f.MainActivity
-Day4Demo.Droid.MainActivity, Day4Demo.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54fafe1a7afbffbd4f072c0c85783da0f.MainActivity
-Day4Demo.Droid.MainActivity;md54fafe1a7afbffbd4f072c0c85783da0f.MainActivity
-day4demo.droid.MainActivity;md54fafe1a7afbffbd4f072c0c85783da0f.MainActivity
-Day4Demo.Droid.RelativeLayoutDemoActivity, Day4Demo.Droid;md54fafe1a7afbffbd4f072c0c85783da0f.RelativeLayoutDemoActivity
-Day4Demo.Droid.RelativeLayoutDemoActivity, Day4Demo.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54fafe1a7afbffbd4f072c0c85783da0f.RelativeLayoutDemoActivity
-Day4Demo.Droid.RelativeLayoutDemoActivity;md54fafe1a7afbffbd4f072c0c85783da0f.RelativeLayoutDemoActivity
-day4demo.droid.RelativeLayoutDemoActivity;md54fafe1a7afbffbd4f072c0c85783da0f.RelativeLayoutDemoActivity
