@@ -1,0 +1,13 @@
+C:\Users\131377\Documents\Projects\instructor\instructor\bin\Debug\instructor.dll
+C:\Users\131377\Documents\Projects\instructor\instructor\bin\Debug\instructor.pdb
+C:\Users\131377\Documents\Projects\instructor\instructor\bin\Debug\com.test.instructor.apk
+C:\Users\131377\Documents\Projects\instructor\instructor\bin\Debug\com.test.instructor-Signed.apk
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\instructor.dll
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\instructor.pdb
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\android\bin\com.test.instructor.apk
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\res\layout\main.xml
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\res\values\strings.xml
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\res\drawable\icon.png
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\res\layout\instructorrow.xml
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\R.cs.flag
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\uploadflags.txt

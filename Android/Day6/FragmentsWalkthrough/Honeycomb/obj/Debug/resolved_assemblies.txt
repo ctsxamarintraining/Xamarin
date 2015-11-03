@@ -1,0 +1,7 @@
+D:\Downloads\FragmentsWalkthrough\FragmentsWalkthrough\Honeycomb\obj\Debug\assemblies\fragmentsample.dll
+D:\Downloads\FragmentsWalkthrough\FragmentsWalkthrough\Honeycomb\obj\Debug\assemblies\Mono.Android.dll
+D:\Downloads\FragmentsWalkthrough\FragmentsWalkthrough\Honeycomb\obj\Debug\assemblies\mscorlib.dll
+D:\Downloads\FragmentsWalkthrough\FragmentsWalkthrough\Honeycomb\obj\Debug\assemblies\System.Core.dll
+D:\Downloads\FragmentsWalkthrough\FragmentsWalkthrough\Honeycomb\obj\Debug\assemblies\System.dll
+D:\Downloads\FragmentsWalkthrough\FragmentsWalkthrough\Honeycomb\obj\Debug\assemblies\System.Xml.dll
+D:\Downloads\FragmentsWalkthrough\FragmentsWalkthrough\Honeycomb\obj\Debug\assemblies\System.Xml.Linq.dll

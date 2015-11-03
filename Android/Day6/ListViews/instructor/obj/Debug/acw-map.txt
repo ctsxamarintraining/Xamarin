@@ -1,0 +1,12 @@
+instructor.MainActivity, instructor;md598f26f40dde683ac328c28d9031a8e9d.MainActivity
+instructor.MainActivity, instructor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md598f26f40dde683ac328c28d9031a8e9d.MainActivity
+instructor.MainActivity;md598f26f40dde683ac328c28d9031a8e9d.MainActivity
+instructor.MainActivity;md598f26f40dde683ac328c28d9031a8e9d.MainActivity
+instructor.InstructorAdapter, instructor;md598f26f40dde683ac328c28d9031a8e9d.InstructorAdapter
+instructor.InstructorAdapter, instructor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md598f26f40dde683ac328c28d9031a8e9d.InstructorAdapter
+instructor.InstructorAdapter;md598f26f40dde683ac328c28d9031a8e9d.InstructorAdapter
+instructor.InstructorAdapter;md598f26f40dde683ac328c28d9031a8e9d.InstructorAdapter
+XamarinUniversity.ViewHolder, instructor;md5c4025b44a386bfc1ce2e04d95c61bd11.ViewHolder
+XamarinUniversity.ViewHolder, instructor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c4025b44a386bfc1ce2e04d95c61bd11.ViewHolder
+XamarinUniversity.ViewHolder;md5c4025b44a386bfc1ce2e04d95c61bd11.ViewHolder
+xamarinuniversity.ViewHolder;md5c4025b44a386bfc1ce2e04d95c61bd11.ViewHolder

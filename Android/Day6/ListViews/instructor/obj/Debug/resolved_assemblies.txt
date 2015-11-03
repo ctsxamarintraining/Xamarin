@@ -1,0 +1,6 @@
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\assemblies\instructor.dll
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\assemblies\mscorlib.dll
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\assemblies\System.Core.dll
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\assemblies\System.dll
+C:\Users\131377\Documents\Projects\instructor\instructor\obj\Debug\assemblies\System.Xml.dll

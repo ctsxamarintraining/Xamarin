@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="instructor\instructor.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Mi498HA14090197" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="instructor\InstructorAdapter.cs">
+    <Files>
+      <File FileName="instructor\MainActivity.cs" Line="31" Column="15" />
+      <File FileName="instructor\InstructorAdapter.cs" Line="14" Column="74" />
+      <File FileName="instructor\InstructorData.cs" Line="15" Column="3" />
+      <File FileName="instructor\ImageAssetManager.cs" Line="12" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.instructor AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
