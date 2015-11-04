@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Supportv7Toolbar/Supportv7Toolbar.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.AVD_for_5_4_FWVGA" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Stacknav AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.ItemProperties.AndroidViewPager AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.ItemProperties.Supportv7Toolbar AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.ItemProperties.AndroidFlyout AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.ItemProperties.AndroidActionBarItems AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.ItemProperties.AndroidActionBarTabs AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

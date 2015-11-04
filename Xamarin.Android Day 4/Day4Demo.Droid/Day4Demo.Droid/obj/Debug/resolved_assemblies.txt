@@ -1,6 +1,0 @@
-/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 4/Day4Demo.Droid/Day4Demo.Droid/obj/Debug/assemblies/Day4Demo.Droid.dll
-/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 4/Day4Demo.Droid/Day4Demo.Droid/obj/Debug/assemblies/System.dll
-/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 4/Day4Demo.Droid/Day4Demo.Droid/obj/Debug/assemblies/System.Xml.dll
-/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 4/Day4Demo.Droid/Day4Demo.Droid/obj/Debug/assemblies/Mono.Android.dll
-/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 4/Day4Demo.Droid/Day4Demo.Droid/obj/Debug/assemblies/System.Core.dll
-/Users/PCAdmin/Documents/Raghu/GIT/Xam/Xamarin.Android Day 4/Day4Demo.Droid/Day4Demo.Droid/obj/Debug/assemblies/mscorlib.dll
