@@ -1,0 +1,12 @@
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/MonoDroid.ContentProviderDemo.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/Mono.Android.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/Mono.Data.Sqlite.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/mscorlib.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/System.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/System.Data.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/System.Xml.Linq.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/System.Xml.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/System.Core.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/System.Transactions.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/Mono.Data.Tds.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/assemblies/Mono.Security.dll

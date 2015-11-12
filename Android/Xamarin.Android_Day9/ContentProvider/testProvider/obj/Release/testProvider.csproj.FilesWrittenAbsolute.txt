@@ -1,0 +1,17 @@
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/bin/Release/testProvider.dll.mdb
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/bin/Release/testProvider.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/bin/Release/com.cognizant.testprovider.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/android/bin/com.cognizant.testprovider.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/res/layout/main.xml
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/res/values/strings.xml
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/res/drawable-hdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/res/drawable-mdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/res/drawable-xhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/res/drawable-xxhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/res/drawable-xxxhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/R.cs.flag
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/bin/Release/com.cognizant.testprovider-Signed.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/uploadflags.txt
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/testProvider.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/testProvider/obj/Release/testProvider.dll.mdb

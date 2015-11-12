@@ -1,0 +1,8 @@
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/LocalNotifications/Notifications.Android/obj/Debug/assemblies/Notifications.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/LocalNotifications/Notifications.Android/obj/Debug/assemblies/Mono.Android.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/LocalNotifications/Notifications.Android/obj/Debug/assemblies/mscorlib.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/LocalNotifications/Notifications.Android/obj/Debug/assemblies/System.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/LocalNotifications/Notifications.Android/obj/Debug/assemblies/System.Xml.Linq.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/LocalNotifications/Notifications.Android/obj/Debug/assemblies/System.Xml.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/LocalNotifications/Notifications.Android/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/LocalNotifications/Notifications.Android/obj/Debug/assemblies/System.Core.dll

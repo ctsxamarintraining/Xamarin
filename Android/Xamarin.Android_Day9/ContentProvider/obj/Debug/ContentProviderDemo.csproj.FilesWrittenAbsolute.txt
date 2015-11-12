@@ -1,0 +1,17 @@
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/MonoAndroid,Version=v2.3.AssemblyAttribute.cs
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/bin/Debug/MonoDroid.ContentProviderDemo.dll.mdb
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/bin/Debug/MonoDroid.ContentProviderDemo.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/bin/Debug/MonoDroid.ContentProviderDemo.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/android/bin/MonoDroid.ContentProviderDemo.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/res/drawable-hdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/res/drawable-ldpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/res/drawable-mdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/res/layout/main.xml
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/res/values/strings.xml
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/R.cs.flag
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/bin/Debug/MonoDroid.ContentProviderDemo-Signed.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/uploadflags.txt
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/MonoDroid.ContentProviderDemo.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/obj/Debug/MonoDroid.ContentProviderDemo.dll.mdb

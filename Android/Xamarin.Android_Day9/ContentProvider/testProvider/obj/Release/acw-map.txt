@@ -1,0 +1,4 @@
+testProvider.MainActivity, testProvider;md55f61aa406086ca7f41214f220e507fc2.MainActivity
+testProvider.MainActivity, testProvider, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55f61aa406086ca7f41214f220e507fc2.MainActivity
+testProvider.MainActivity;md55f61aa406086ca7f41214f220e507fc2.MainActivity
+testprovider.MainActivity;md55f61aa406086ca7f41214f220e507fc2.MainActivity

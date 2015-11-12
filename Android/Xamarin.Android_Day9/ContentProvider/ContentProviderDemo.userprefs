@@ -1,0 +1,14 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="ContactsProviderDemo/ContactsProviderDemo.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactsProviderDemo/Activity1.cs">
+    <Files>
+      <File FileName="ContactsProviderDemo/Activity1.cs" Line="34" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContentProviderDemo AndroidDesignerPreferredDevice="Nexus 4" />
+  <MonoDevelop.Ide.ItemProperties.ContactsProviderDemo AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/bin/Debug/ContactsProviderDemo.dll.mdb
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/bin/Debug/ContactsProviderDemo.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/bin/Debug/ContactsProviderDemo.ContactsProviderDemo.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/android/bin/ContactsProviderDemo.ContactsProviderDemo.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/res/layout/main.xml
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/res/values/strings.xml
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/res/drawable-hdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/res/drawable-ldpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/res/drawable-mdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/R.cs.flag
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/bin/Debug/ContactsProviderDemo.ContactsProviderDemo-Signed.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/uploadflags.txt
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/ContactsProviderDemo.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/ContactsProviderDemo/obj/Debug/ContactsProviderDemo.dll.mdb

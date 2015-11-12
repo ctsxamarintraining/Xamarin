@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="MyApp/MyApp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_5_4_FWVGA" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyApp/MainActivity.cs">
+    <Files>
+      <File FileName="MyApp/MainActivity.cs" Line="16" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

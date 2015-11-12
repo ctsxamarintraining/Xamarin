@@ -1,0 +1,4 @@
+ContactsProviderDemo.Activity1, ContactsProviderDemo;md50a423142c44b2c9775df15efeb60b6cb.Activity1
+ContactsProviderDemo.Activity1, ContactsProviderDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50a423142c44b2c9775df15efeb60b6cb.Activity1
+ContactsProviderDemo.Activity1;md50a423142c44b2c9775df15efeb60b6cb.Activity1
+contactsproviderdemo.Activity1;md50a423142c44b2c9775df15efeb60b6cb.Activity1

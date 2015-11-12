@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Notifications.Android/Notifications.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notifications.Android/MainActivity.cs">
+    <Files>
+      <File FileName="Notifications.Android/MainActivity.cs" Line="36" Column="59" />
+      <File FileName="Notifications.Android/SecondActivity.cs" Line="8" Column="42" />
+      <File FileName="Notifications.Android/packages.config" Line="1" Column="1" />
+      <File FileName="Notifications.Android/Resources/Values/Strings.xml" Line="6" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Notifications.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

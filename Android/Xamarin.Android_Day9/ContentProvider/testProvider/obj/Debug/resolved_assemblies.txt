@@ -1,0 +1,6 @@
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/assemblies/testProvider.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/assemblies/System.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/assemblies/System.Xml.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/assemblies/Mono.Android.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/assemblies/System.Core.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/assemblies/mscorlib.dll

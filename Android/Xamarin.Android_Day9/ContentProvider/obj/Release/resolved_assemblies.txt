@@ -1,0 +1,5 @@
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/obj/Release/android/assets/MonoDroid.ContentProviderDemo.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/obj/Release/android/assets/Mono.Android.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/obj/Release/android/assets/mscorlib.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/obj/Release/android/assets/System.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day10/ContentProvider/obj/Release/android/assets/System.Core.dll

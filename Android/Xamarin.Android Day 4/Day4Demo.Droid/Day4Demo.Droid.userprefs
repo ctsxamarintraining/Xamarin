@@ -1,11 +1,11 @@
 ﻿<Properties StartupItem="Day4Demo.Droid/Day4Demo.Droid.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day4Demo.Droid/MainActivity.cs">
     <Files>
       <File FileName="Day4Demo.Droid/MainActivity.cs" Line="22" Column="40" />
-      <File FileName="Day4Demo.Droid/Resources/values/Strings.xml" Line="3" Column="34" />
-      <File FileName="Day4Demo.Droid/Resources/values-de/Strings.xml" Line="3" Column="52" />
-      <File FileName="Day4Demo.Droid/Resources/values/mystyles.xml" Line="9" Column="1" />
+      <File FileName="Day4Demo.Droid/Resources/values/Strings.xml" Line="1" Column="1" />
+      <File FileName="Day4Demo.Droid/Resources/values-de/Strings.xml" Line="1" Column="1" />
+      <File FileName="Day4Demo.Droid/Resources/values/mystyles.xml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

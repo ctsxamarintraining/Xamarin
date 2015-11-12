@@ -1,0 +1,17 @@
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/bin/Debug/testProvider.dll.mdb
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/bin/Debug/testProvider.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/bin/Debug/com.cognizant.testprovider.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/android/bin/com.cognizant.testprovider.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/res/layout/main.xml
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/res/values/strings.xml
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/res/drawable-hdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/res/drawable-mdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/res/drawable-xxxhdpi/icon.png
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/R.cs.flag
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/bin/Debug/com.cognizant.testprovider-Signed.apk
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/uploadflags.txt
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/testProvider.dll
+/Users/PCAdmin/Documents/Raghu/GIT/Xamarin.Android_Day9/ContentProvider/testProvider/obj/Debug/testProvider.dll.mdb
